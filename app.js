@@ -9,7 +9,6 @@ const {
   scrapeCity,
   scrapeSubCity,
 } = require("./scraping");
-// import compression module
 
 const app = express();
 
